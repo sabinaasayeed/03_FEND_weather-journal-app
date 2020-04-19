@@ -37,7 +37,7 @@ This is the third project in Udacity Front End Developement Nano degree where I 
  - access HTML elements with JavaScript and set their properties dynamically?
 
 ### To view project
-The project is published on GitHub Pages. To view, click on this link: [link to project](https://github.com/sabinaasayeed/weather-journal-app)
+The project is published on GitHub Pages. To view, click on this link: [link to project](https://github.com/sabinaasayeed/03_FEND_weather-journal-app)
 
 ### How to run 
 To launch this website, simply clone the repo 
